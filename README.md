@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 LinkedIn or my gmail
 
-<a href="https://app.daily.dev/TarouShota"><img src="https://api.daily.dev/devcards/0c141037e369426baf9dccf1e0f92439.png?r=rx6" width="400" alt="Bekzot Adylov's Dev Card"/></a>
+<a href="https://app.daily.dev/TarouShota"><img src="https://api.daily.dev/devcards/0c141037e369426baf9dccf1e0f92439.png?r=qxf" width="400" alt="Bekzot Adylov's Dev Card"/></a>
 
 <a href = "https://www.codewars.com/users/TarouShota"><img src="https://www.codewars.com/users/TarouShota/badges/large" width="400" alt ="TarouShota Code wars rank"/></a>
 <!---
