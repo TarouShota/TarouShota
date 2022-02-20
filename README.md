@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I’m <a href="https://www.adylove.xyz/" target = "blank"> @TarouShota</a></h1>
+<h1> 👋 Hi, I’m <a href="https://www.adylove.xyz/" target = "blank"> @TarouShota</a></h1><br />
  
 <h3 align="center">Front-End Developer | UI Designer</h3>
 
