@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Beka</h1>
- 👋 Hi, I’m <a href="https://github.com/TarouShota" target = "blank"> @TarouShota</a>
- 👀 I’m interested in Software Developing 
- 💞️ I’m freelancing as a Front-End Developer
- 📫 How to reach me:
+ 
 <h3 align="center">Front-End Developer | UI Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taroushota&label=Profile%20views&color=0e75b6&style=flat" alt="taroushota" /> </p>
 
 - 🌱 I’m currently learning **React**
+
+- 👋 Hi, I’m <a href="https://github.com/TarouShota" target = "blank"> @TarouShota</a>
+
+- 👀 I’m interested in Software Developing 
+
+- 💞️ I’m freelancing as a Front-End Developer
 
 - 👨‍💻 All of my projects are available at(https://www.adylove.xyz/)
 
