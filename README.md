@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Beka</h1>
-👋 Hi, I’m @TarouShota
+👋 Hi, I’m <a href="https://github.com/TarouShota" target = "blank"> @TarouShota</a>
 - 👀 I’m interested in Software Developing 
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking forward to working as a Front-End Developer
+- 💞️ I’m freelancing as a Front-End Developer
 - 📫 How to reach me:
 <h3 align="center">Front-End Developer | UI Designer</h3>
 
