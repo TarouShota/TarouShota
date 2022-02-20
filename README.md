@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at(https://www.adylove.xyz/)
 
-- 📝 I regularly write articles on [Web Development, Soft Skills, JavaScript,](Web Development, Soft Skills, JavaScript,)
+- 📝 I regularly write articles on [Web Development, Soft Skills, JavaScript,]
 
 - 📫 How to reach me **adilovbekzot@gmail.com**
 
