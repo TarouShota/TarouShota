@@ -7,8 +7,6 @@
 
 - 💞️ I’m freelancing as a Front-End Developer
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at(https://www.adylove.xyz/)
 
 - 📝 I regularly write articles on [Web Development, Soft Skills, JavaScript,](Web Development, Soft Skills, JavaScript,)
