@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Beka</h1>
+👋 Hi, I’m @TarouShota
+- 👀 I’m interested in Software Developing 
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking forward to working as a Front-End Developer
+- 📫 How to reach me:
 <h3 align="center">Front-End Developer | UI Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taroushota&label=Profile%20views&color=0e75b6&style=flat" alt="taroushota" /> </p>
