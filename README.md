@@ -1,17 +1,13 @@
 <h1> 👋 Hi, I’m <a href="https://www.adylove.xyz/" target = "blank"> @TarouShota</a></h1><br />
  
-<h3 align="center">Front-End Developer | UI Designer</h3>
+<h3 align="center">Front-End Developer | UI/UX Designer</h3>
 
 
-- 👀 I’m interested in Software Developing 
+- 👻 I’m freelancing as a Front-End Developer
 
-- 💞️ I’m freelancing as a Front-End Developer
+- (☞ﾟヮﾟ)☞  My portfolio website is at(https://www.adylove.xyz/)
 
-- 👨‍💻 All of my projects are available at(https://www.adylove.xyz/)
-
-- 📝 I regularly write articles on [Web Development, Soft Skills, JavaScript,]
-
-- 📫 How to reach me **adilovbekzot@gmail.com**
+- ✉ How to reach me **adilovbekzot@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
