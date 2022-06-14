@@ -3,7 +3,7 @@
 <h3 align="center">Front-End Developer | UI/UX Designer</h3>
 
 
-- 👻 I’m freelancing as a Front-End Developer
+- 👻 I’m Software Developer at FlowBox
 
 - (☞ﾟヮﾟ)☞  My portfolio website is at(https://www.adylove.xyz/)
 
