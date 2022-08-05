@@ -1,9 +1,9 @@
 <h1> 👋 Hi, I’m <a href="https://www.adylove.xyz/" target = "blank"> @TarouShota</a></h1><br />
  
-<h3 align="center">Front-End Developer | UI/UX Designer</h3>
+<h3 align="center"> I’m Software Developer at FlowBox | UI/UX Designer</h3>
 
 
-- 👻 I’m Software Developer at FlowBox
+
 
 - (☞ﾟヮﾟ)☞  My portfolio website is at(https://www.adylove.xyz/)
 
