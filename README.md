@@ -16,8 +16,8 @@
 
 
 
-<a href="https://app.daily.dev/TarouShota"><img src="https://api.daily.dev/devcards/0c141037e369426baf9dccf1e0f92439.png?r=qxf" width="400" alt="Bekzot Adylov's Dev Card"/></a>
-
+<!-- <a href="https://app.daily.dev/TarouShota"><img src="https://api.daily.dev/devcards/0c141037e369426baf9dccf1e0f92439.png?r=qxf" width="400" alt="Bekzot Adylov's Dev Card"/></a>
+ -->
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=taroushota&label=Profile%20views&color=0e75b6&style=flat" alt="taroushota" /> </p>
 <!---
 TarouShota/TarouShota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
